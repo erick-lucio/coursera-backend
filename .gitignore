@@ -1,0 +1,43 @@
+# .NET build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# IIS Express settings
+.vs/
+.vsconfig
+
+# Build results
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Rider IDE
+.idea/
+
+# dotnet user secrets
+secrets.json
+
+# Other
+*.swp
+*.bak
+*.tmp
